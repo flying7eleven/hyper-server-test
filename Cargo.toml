@@ -1,0 +1,11 @@
+[package]
+name = "hyper-server-test"
+version = "0.1.0"
+authors = ["Tim Hütz <tim@huetz.biz>"]
+edition = "2018"
+
+[dependencies]
+env_logger = "0.6.2"
+futures = "0.1.28"
+hyper = "0.12.32"
+log = "0.4.7"
